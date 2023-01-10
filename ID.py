@@ -97,5 +97,4 @@ elif maleorfemale == "m":
         print(f"State: {final_state_}")
         skin()
         birth()
-        id
     male()
