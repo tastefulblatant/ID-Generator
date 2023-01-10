@@ -1,12 +1,6 @@
 import random
 import os
 import time
-
-
-
-def skin():
-        skin_ = ["Black","White"]
-        final_skin = random.choice(skin_)
         
 
 def birth():
